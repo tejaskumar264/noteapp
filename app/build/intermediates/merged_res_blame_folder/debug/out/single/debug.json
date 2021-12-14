@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_save.png.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_check_24.xml.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable\\ic_baseline_check_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_article.png.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable-mdpi\\ic_article.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_add_new_ic.png.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable-xhdpi\\add_new_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_add_new_ic.png.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\add_new_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_add_new_ic.xml.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable-anydpi\\add_new_ic.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_article.png.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable-hdpi\\ic_article.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_intro.gif.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable\\intro.gif"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_image.xml.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable\\ic_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_save.png.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_save.xml.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable-anydpi\\ic_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\layout_note_card_view.xml.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\layout\\note_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_edit.xml.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\layout\\activity_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_article.xml.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable-anydpi\\ic_article.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_article.png.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_article.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_fab_bg.xml.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable\\fab_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_add_new_ic.png.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable-mdpi\\add_new_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_article.png.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_article.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_save.png.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable-hdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_save.png.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable-mdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_add_new_ic.png.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\notepad-app-master\\app\\src\\main\\res\\drawable-hdpi\\add_new_ic.png"
+    }
+]
